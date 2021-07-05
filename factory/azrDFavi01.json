@@ -1,0 +1,9 @@
+{
+	"name": "azrDFavi01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c69299f0-f440-4ce5-a309-9d5bdab16e7d",
+		"tenantId": "2bb461ee-db4c-4181-b852-4ef979afea2e"
+	}
+}
